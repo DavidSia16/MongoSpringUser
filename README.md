@@ -49,7 +49,4 @@ API RESTful completa desenvolvida para gerenciamento de usuários, integrada ao 
 
 ### Passos
 
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
-   cd SEU-REPOSITORIO
+
